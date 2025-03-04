@@ -13,11 +13,12 @@ Di era digital ini, kami ingin merepresentasikan pengalaman dan keinginan kuat u
 ### 1. Folder zip
   - Unduh terlebih dahulu folder zip pada halaman ini.
   - Unzip file tersebut.
-### 2. Menjalankan Aplikasi 
+### 2. Menjalankan Aplikasi dengan VSCODE
   - Buka Vs Code
   - Pilih file
   - Open Folder
   - Pilih folder I Am Sleep yang sudah di unzip
+  - Pada file explorer pilih "lib" lalu plih main.dart
    
    Struktur HTML yang digunakan pada website ini dirancang sederhana dengan elemen-elemen utama berikut:
 
