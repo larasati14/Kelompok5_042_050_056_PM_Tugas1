@@ -1,5 +1,5 @@
 # Kelompok5_042_050_056_PM_Tugas1
-Aplikasi "I Am Sleeper" Tugas1_Mata Kuliah Pemrograman Mobile
+Aplikasi "I Am Sleep" Tugas1_Mata Kuliah Pemrograman Mobile
 
 # 🌐 Pengembangan Aplikasi "I Am Sleep" dengan Flutter
 
