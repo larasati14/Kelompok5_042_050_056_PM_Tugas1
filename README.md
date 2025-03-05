@@ -20,7 +20,7 @@ Di era digital ini, kami ingin merepresentasikan pengalaman dan keinginan kuat u
   - Pilih folder I Am Sleep yang sudah di unzip
   - Pada file explorer pilih "lib" lalu plih main.dart
    
-   Struktur HTML yang digunakan pada website ini dirancang sederhana dengan elemen-elemen utama berikut:
+    yang digunakan pada website ini dirancang sederhana dengan elemen-elemen utama berikut:
 
    - **Header**: Berisi navigasi utama dengan tautan ke bagian **Beranda**, **Daftar Tanaman**, **Komunitas**, **Tentang Kami**, dan **Kontak**.
    - **Main Content**:
