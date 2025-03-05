@@ -4,7 +4,7 @@ Aplikasi "I Am Sleep" Tugas1_Mata Kuliah Pemrograman Mobile
 # 🌐 Pengembangan Aplikasi "I Am Sleep" dengan Flutter
 
 ## 🗒️ Deskripsi 
-Di era digital ini, kami ingin merepresentasikan pengalaman dan keinginan kuat untuk beristirahat melalui sebuah aplikasi sederhana bernama "I Am Sleeper". Aplikasi ini menghadirkan tampilan minimalis berupa gambar orang tidur, kalimat reflektif tentang pentingnya tidur, dan ekspresi mood mengantuk dengan emotikon. Melalui aplikasi ini, kami ingin menyampaikan bahwa tidur adalah seni mengistirahatkan pikiran tanpa batas—sebuah aktivitas yang sederhana, namun memiliki dampak besar dalam menjaga keseimbangan hidup.
+Di era digital ini, kami ingin merepresentasikan pengalaman dan keinginan kuat untuk beristirahat melalui sebuah aplikasi sederhana bernama "I Am Sleep". Aplikasi ini menghadirkan tampilan minimalis berupa gambar orang tidur, kalimat reflektif tentang pentingnya tidur, dan ekspresi mood mengantuk dengan emotikon. Melalui aplikasi ini, kami ingin menyampaikan bahwa tidur adalah seni mengistirahatkan pikiran tanpa batas—sebuah aktivitas yang sederhana, namun memiliki dampak besar dalam menjaga keseimbangan hidup.
 
 ---
 
